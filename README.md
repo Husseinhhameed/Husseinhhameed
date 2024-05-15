@@ -32,3 +32,6 @@
 - I am a regular speaker at Google development Groups(GDG) events, where I share my insights on technology trends, software development, and the intersection of AI and ethics.
 
   Feel free to reach out to me if you are interested in collaborating on any projects or if you just want to have a chat about technology and its impacts on society!
+
+    ![3D Surface Visualization](https://github.com/Husseinhhameed/Husseinhhameed/blob/main/run-12055_256.gif?raw=true)
+
