@@ -1,5 +1,5 @@
-# 👋 Hi, I’m HUSSEIN  ![3D Surface Visualization](https://github.com/Husseinhhameed/Husseinhhameed/blob/main/run-12055_256.gif?raw=true)
-
+![3D Surface Visualization](https://github.com/Husseinhhameed/Husseinhhameed/blob/main/run-12055_256.gif?raw=true)
+# 👋 Hi, I’m HUSSEIN  
 
 ## 👀 I’m interested in ...
 - Artificial Intelligence and its application in solving real-world problems.
