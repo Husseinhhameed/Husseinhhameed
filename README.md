@@ -1,4 +1,5 @@
-# 👋 Hi, I’m HUSSEIN
+# 👋 Hi, I’m HUSSEIN  ![3D Surface Visualization](https://github.com/Husseinhhameed/Husseinhhameed/blob/main/run-12055_256.gif?raw=true)
+
 
 ## 👀 I’m interested in ...
 - Artificial Intelligence and its application in solving real-world problems.
@@ -33,5 +34,4 @@
 
   Feel free to reach out to me if you are interested in collaborating on any projects or if you just want to have a chat about technology and its impacts on society!
 
-    ![3D Surface Visualization](https://github.com/Husseinhhameed/Husseinhhameed/blob/main/run-12055_256.gif?raw=true)
 
