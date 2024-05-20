@@ -12,7 +12,7 @@
 - Advanced Python programming to enhance my backend development skills.
 - Deep Learning Algorithms to build more predictive models.
 - Cloud Computing platforms like AWS and Azure to deploy and manage applications.
-- im PhD student at Rovira i virgili university - Spain 
+- Im PhD student at Rovira i virgili university - Spain 
 
 ## 💞️ I’m looking to collaborate on ...
 - Open-source projects that focus on environmental sustainability, aiming to leverage technology to reduce waste and conserve natural resources.
