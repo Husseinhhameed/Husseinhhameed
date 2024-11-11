@@ -4,6 +4,7 @@
 - Artificial Intelligence and its application in solving real-world problems.
 - Deep learning models and computer vision.
 - Augmented reality applications
+- Camera Localization
 - Developing scalable software solutions for business operations.
 - Digital Transformation theory.
 - UI and UX desgin.
